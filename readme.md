@@ -15,3 +15,5 @@ Wikipedia graph recreation
 
 [] be able to find the shortest path between two nodes on wikipedia.
 (similar to this https://www.sixdegreesofwikipedia.com)
+
+Article on this project https://medium.com/@ryan.l.smith4/the-journey-to-philosophy-94bf45e952ae
