@@ -7,8 +7,6 @@ Wikipedia graph recreation
 ## Description
  We have all heard that it only takes so many clicks on wikipedia to reach philosophy. I plan to
 
- [] interact with wikipedia API or scrape wikipedia to get all the links on pages
-
  [] find the shorest path to philosphy from an arbitrary access point. 
 
 [] find the average edges it takes to reach philosophy.
