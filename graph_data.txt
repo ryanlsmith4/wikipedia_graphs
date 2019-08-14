@@ -1,0 +1,8 @@
+G
+https://en.wikipedia.org/wiki/Philosophy,https://www.wikipedia.org/,https://en.wikipedia.org/wiki/Main_Page,https://en.wikipedia.org/wiki/Hurricane_Nadine,https://en.wikipedia.org/wiki/List_of_Atlantic_hurricane_records#Longest_duration,https://en.wikipedia.org/wiki/Tropical_cyclone,https://en.wikipedia.org/wiki/Quality_(philosophy),https://en.wikipedia.org/wiki/Tropical_cyclone,https://en.wikipedia.org/wiki/Sega_Genesis
+(https://www.wikipedia.org/,https://en.wikipedia.org/wiki/Main_Page)
+(https://en.wikipedia.org/wiki/Main_Page,https://en.wikipedia.org/wiki/Hurricane_Nadine)
+(https://en.wikipedia.org/wiki/List_of_Atlantic_hurricane_records#Longest_duration,https://en.wikipedia.org/wiki/Hurricane_Nadine)
+(https://en.wikipedia.org/wiki/Hurricane_Nadine,https://en.wikipedia.org/wiki/Tropical_cyclone)
+(https://en.wikipedia.org/wiki/Quality_(philosophy),https://en.wikipedia.org/wiki/Philosophy)
+(https://en.wikipedia.org/wiki/Hurricane_Nadine,https://en.wikipedia.org/wiki/Sega_Genesis)
