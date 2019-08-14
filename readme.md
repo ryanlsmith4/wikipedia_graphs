@@ -12,7 +12,8 @@ Wikipedia graph recreation
 [x] find a clique in the date from a random entry point
 
 [x] find if data is eulerian
-
+# TODO 
+- This is contingnent on finding the full dataset
 [] be able to find the shortest path between two nodes on wikipedia.
 (similar to this https://www.sixdegreesofwikipedia.com)
 
